@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Milo Nguyen</h1>
 <h3 align="center">
-Computer Science @ UMass Amherst · Backend & Cloud Engineer · Distributed Systems and Applied AI
+Computer Science Sophomore @ UMass Amherst · Backend & Cloud Engineer · Distributed Systems and Applied AI
 </h3>
 
 <p align="center">
@@ -19,7 +19,7 @@ Computer Science @ UMass Amherst · Backend & Cloud Engineer · Distributed Syst
 
 ## 🚀 About Me
 
-I'm **Milo Nguyen**, a Computer Science undergraduate at the **University of Massachusetts Amherst** with a 3.89 GPA and an expected graduation date of May 2029.
+I'm **Milo Nguyen**, a Computer Science sophomore at the **University of Massachusetts Amherst** with a 3.89 GPA and an expected graduation date of May 2029.
 
 I build production software across **backend systems, cloud infrastructure, data pipelines, and full-stack products**. I care about reliable APIs, secure multi-tenant architecture, observability, and systems that stay understandable as they grow.
 
