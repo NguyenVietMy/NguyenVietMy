@@ -5,7 +5,7 @@ Computer Science @ UMass Amherst · Backend & Cloud Engineer · Distributed Syst
 
 <p align="center">
   <a href="https://www.linkedin.com/in/viet-my-nguyen-92b2b5324/">
-    <img src="https://img.shields.io/badge/LinkedIn-Viet%20My%20Nguyen-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Milo%20Nguyen-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:vietmynguyen@umass.edu">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" />
@@ -19,7 +19,7 @@ Computer Science @ UMass Amherst · Backend & Cloud Engineer · Distributed Syst
 
 ## 🚀 About Me
 
-I'm **Viet My "Milo" Nguyen**, a Computer Science undergraduate at the **University of Massachusetts Amherst** with a 3.89 GPA and an expected graduation date of May 2029.
+I'm **Milo Nguyen**, a Computer Science undergraduate at the **University of Massachusetts Amherst** with a 3.89 GPA and an expected graduation date of May 2029.
 
 I build production software across **backend systems, cloud infrastructure, data pipelines, and full-stack products**. I care about reliable APIs, secure multi-tenant architecture, observability, and systems that stay understandable as they grow.
 
@@ -29,11 +29,11 @@ I'm especially interested in the intersection of **distributed systems and appli
 
 ## 🧠 Experience & Project Highlights
 
-- ⚙️ **Backend Engineer Intern @ Mozy** — Built data-ingestion pipelines for six social platforms and contributed to an AI financial-research backend, including typed agent workflows, resilient async processing, observability, and production safeguards.
+- **Backend Engineer Intern @ Mozy** — Built data-ingestion pipelines for six social platforms and contributed to an AI financial-research backend, including typed agent workflows, resilient async processing, observability, and production safeguards.
 
-- 🏗️ **Software Engineer Intern @ Artech Global** — Owned the end-to-end development and production launch of a multi-tenant B2B SaaS platform built with Next.js, FastAPI, and PostgreSQL, deployed on Google Cloud Run and Vercel.
+- **Software Engineer Intern @ Artech Global** — Owned the end-to-end development and production launch of a multi-tenant B2B SaaS platform built with Next.js, FastAPI, and PostgreSQL, deployed on Google Cloud Run and Vercel.
 
-- 🤖 **ContentLens — ML Content Moderation System** — Built an event-driven moderation pipeline with Spring Boot, FastAPI, ONNX, RabbitMQ, PostgreSQL, AWS EKS, Terraform, and ArgoCD, reducing manual review volume by 70% while achieving 0.96 F1 and 0.99 ROC-AUC.
+- **ContentLens — ML Content Moderation System** — Built an event-driven moderation pipeline with Spring Boot, FastAPI, ONNX, RabbitMQ, PostgreSQL, AWS EKS, Terraform, and ArgoCD, reducing manual review volume by 70% while achieving 0.96 F1 and 0.99 ROC-AUC.
 
 ---
 
